@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Spartan", sans-serif;
+}
+
+* {
+  padding: 0rem 0rem;
+  margin: 0rem 0rem;
+}
+
+#title {
+  font-size: 3rem;
+  margin: auto;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  text-align: center;
+  background-color: black;
+  color: skyblue;
+}
+
+#input {
+  border: 2px black solid;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  width: 80%;
+  max-width: 600px;
+  height: 2vh;
+  display: block;
+  margin: auto;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+#display {
+  display: inline;
+  background-color: skyblue;
+  padding: 0rem;
+}
+
+#text {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.box {
+  width: 50%;
+  margin: 2rem auto;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  grid-gap: 10px;
+}
