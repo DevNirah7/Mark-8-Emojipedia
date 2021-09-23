@@ -1,4 +1,4 @@
-# Klingon Translator
+# Emojipedia
 
 # About:
 Web application which accepts emojis as user input and identifies the emotion that they convey. Application also displays the database of emoji's which the user can click on to know it's meaning.
